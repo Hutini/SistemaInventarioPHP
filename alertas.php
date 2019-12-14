@@ -9,8 +9,8 @@
             }
             table {
                 width: 25%;
-                background-color: #FFC;
-                border: 2px dotted #F00;
+                background-color: red;
+                border: 2px dotted blueviolet;
                 margin: auto;
             }
             .izq {
